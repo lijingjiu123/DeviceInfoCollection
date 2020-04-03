@@ -1,0 +1,2 @@
+include ':app', ':deviceinfograb'
+rootProject.name='DeviceInfoCollection'
